@@ -1,1 +1,1 @@
-Java working project started with IntelliJ ( Spring Initializr --> Web --> Spring Web Starter ) Project has Controllers serving html templates
+Java working project started with IntelliJ ( Spring Initializr --> Web --> Spring Web Starter ) Project has Controllers serving html templates and connected JS to the templates
